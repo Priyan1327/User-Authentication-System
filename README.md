@@ -6,7 +6,6 @@ A secure user authentication system built with **React** and **JSON Web Tokens (
 
 ## 🚀 Features
 
-- ✅ User registration with 8 input fields
 - 🔐 Login with username and password
 - 🛡️ JWT token-based authentication
 - 📦 Secure API communication using Axios
